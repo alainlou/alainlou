@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C   0 secs          █████████████████████████   100.00 %
+Other   32 mins         ████████████████████████▒   97.98 %
 ```
 
 <!--END_SECTION:waka-->
